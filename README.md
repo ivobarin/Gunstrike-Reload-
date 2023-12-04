@@ -17,8 +17,8 @@ Gunstrike Reload te sumerge en el Salvaje Oeste, donde tu misión es derribar a 
    
 ## Requisitos del sistema
 Asegúrate de cumplir con los siguientes requisitos del sistema:
-- Python 3.10 
-- Pygame (puedes instalarlo ejecutando `pip install pygame`) si deseas ejecutar el source code 
+- Python 3.10
+- Si deseas ejecutar el source code `main.py` instala el paquete de pygame `pip install pygame` 
 
 ## Contribuciones
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna sugerencia, no dudes en abrir un problema o enviar un pull request.
