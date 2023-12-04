@@ -1,6 +1,6 @@
 # Gunstrike Reload
 
-¡Bienvenido a Gunstrike Reload, un emocionante juego de on-rail shooter de vaqueros creado en Pygame!
+¡Bienvenido a Gunstrike Reload, un emocionante juego de aim-trainer de vaqueros creado en Pygame!
 
 ## Descripción del juego
 Gunstrike Reload te sumerge en el Salvaje Oeste, donde tu misión es derribar a tantos cowboys como sea posible antes de que se agote el tiempo. ¿Tienes lo necesario para ser el vaquero más rápido del oeste?
@@ -12,13 +12,13 @@ Gunstrike Reload te sumerge en el Salvaje Oeste, donde tu misión es derribar a 
 - **Shooter y Coverturas:** Tienes la destreza para acabar con todos los enemigos antes de que termine el tiempo. 
 
 ## Instalación
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/gunstrike-reload.git`
-2. Ejecuta el juego: `python main.ex`
+1. Clona el repositorio: `git clone https://github.com/ivobarin/gunstrike-reload.git`
+2. Ejecuta el juego: `main.exe`
    
 ## Requisitos del sistema
 Asegúrate de cumplir con los siguientes requisitos del sistema:
 - Python 3.10 
-- Pygame (puedes instalarlo ejecutando `pip install pygame`)
+- Pygame (puedes instalarlo ejecutando `pip install pygame`) si deseas ejecutar el source code 
 
 ## Contribuciones
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna sugerencia, no dudes en abrir un problema o enviar un pull request.
