@@ -13,9 +13,8 @@ Gunstrike Reload te sumerge en el Salvaje Oeste, donde tu misión es derribar a 
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/tu-usuario/gunstrike-reload.git`
-2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el juego: `python main.py`
-
+2. Ejecuta el juego: `python main.ex`
+   
 ## Requisitos del sistema
 Asegúrate de cumplir con los siguientes requisitos del sistema:
 - Python 3.10 
